@@ -1,0 +1,5 @@
+commit e203b6b8fe8ebc0abe1abe07e4583596709b2b33
+Author: Qusai <frajqsy90@gmail.com>
+Date:   Sun Oct 4 15:47:54 2026 +0300
+
+    docs: add hello.txt
