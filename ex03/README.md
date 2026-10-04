@@ -33,11 +33,3 @@ Git saves the history of changes in a project. It helps me to:
 ## How to Use This Repository
 
     git clone https://github.com/Qusai50/discovery-web-piscine.git
-
-
-cd ~/discovery-web-piscine22
-git add ex03/README.md
-git commit -m "docs: add Arabic summary to README"
-git push
-
-
